@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "@randock/license-plate-validator": "^0.0.13"
+    "elric25/license-plate-validator": "^0.0.13"
   }
 }
